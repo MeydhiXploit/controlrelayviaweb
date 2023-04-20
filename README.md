@@ -23,4 +23,4 @@ This application is released under the MIT license. Please refer to the LICENSE 
 
 ## Developer
 
-This application is developed by MeydhiXploit and is open source. Please refer to this repository for more information about the development of the application and to submit your contributions. Thank you for using Control Relay 4 via Web!
+This application is developed by MeydhiXploit and is open source. Please refer to this repository for more information about the development of the application and to submit your contributions. Thank you for using Control Relay 4 via Web !

@@ -3,7 +3,9 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 
+// USERNAME WIFI
 const char* ssid = "medit";
+//PASSWORD WIFI
 const char* password = "sayaini1";
 const int relay1Pin = D5;
 const int relay2Pin = D6;

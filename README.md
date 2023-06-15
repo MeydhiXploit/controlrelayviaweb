@@ -25,6 +25,6 @@ This application is released under the MIT license. Please refer to the LICENSE 
 
 This application is developed by MeydhiXploit and is open source. Please refer to this repository for more information about the development of the application and to submit your contributions. Thank you for using Control Relay 4 via Web !
 
-## Donasi For Coffe
+## Donasi For Coffee
 <a href="https://trakteer.id/meydhi ari nugroho/tip?open=true">Donasi For Coffee</a>
 

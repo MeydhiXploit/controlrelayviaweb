@@ -1,29 +1,3 @@
-<h3 align="left">Please support me:</h3>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/meydhimeydY" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meydhimeydY">
-  </a>
-</div><br>
-
-<div align="center">
-  <a href="https://ko-fi.com/meydhiarinugroho" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="meydhiarinugroho">
-  </a>
-</div><br>
-
-<div align="center">
-  <a href="https://www.paypal.me/meydhi">
-    <img src="https://img.shields.io/badge/paypal-MEYDHI-gold?style=for-the-badge&logo=PayPal" alt="Donate">
-  </a>
-</div><br>
-
-<div align="center">
-    <a href="https://trakteer.id/meydhi%20ari%20nugroho/tip?open=true" target="_blank">
-      <img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">
-    </a>
-</div>
-
-
 # Control Relay 4 via Web
 
 Control Relay 4 via Web is a web application that allows you to control 4 relays wirelessly over Wi-Fi network. The application is developed using ESP8266 technology and designed to work with relay control board that is compatible with ESP8266.
@@ -53,4 +27,29 @@ This application is developed by MeydhiXploit and is open source. Please refer t
 
 ## Donasi For Coffee
 <a href="https://trakteer.id/meydhi ari nugroho/tip?open=true">Donasi For Coffee</a>
+<h3 align="left">Please support me:</h3>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/meydhimeydY" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meydhimeydY">
+  </a>
+</div><br>
+
+<div align="center">
+  <a href="https://ko-fi.com/meydhiarinugroho" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="meydhiarinugroho">
+  </a>
+</div><br>
+
+<div align="center">
+  <a href="https://www.paypal.me/meydhi">
+    <img src="https://img.shields.io/badge/paypal-MEYDHI-gold?style=for-the-badge&logo=PayPal" alt="Donate">
+  </a>
+</div><br>
+
+<div align="center">
+    <a href="https://trakteer.id/meydhi%20ari%20nugroho/tip?open=true" target="_blank">
+      <img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">
+    </a>
+</div>
+
 

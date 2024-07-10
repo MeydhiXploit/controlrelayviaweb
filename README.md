@@ -1,6 +1,6 @@
-# Control Relay 4 via Web
+# Control Relay via Web For Using ESP8266
 
-Control Relay 4 via Web is a web application that allows you to control 4 relays wirelessly over Wi-Fi network. The application is developed using ESP8266 technology and designed to work with relay control board that is compatible with ESP8266.
+Control Relay via Web is a web application that allows you to control 4 relays wirelessly over Wi-Fi network. The application is developed using ESP8266 technology and designed to work with relay control board that is compatible with ESP8266.
 
 ## How to Use the Application
 
